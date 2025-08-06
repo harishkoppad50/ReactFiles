@@ -3,7 +3,7 @@ import React from 'react'
 function HarishComp() {
   return (
     <div>
-      my name is harish 
+      i am harish from Haveri 
     </div>
   )
 }
